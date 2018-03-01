@@ -12,7 +12,7 @@ As events unfold in the world, social media becomes the place people engage with
 - [Ben Casalino](https://github.com/bencasalino)
 - [Dan Beerman](https://github.com/lebeerman)
 
-### Technologies Used
+## Technologies Used
 D3 / React / JavaScript / Node.js / Knex & PostgreSQL / Twitter API
 
 ### Future Iterations
