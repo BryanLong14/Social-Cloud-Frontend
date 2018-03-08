@@ -15,3 +15,6 @@ As events unfold in the world, social media becomes the place people engage with
 - Sortable content from different sources: 
   - Twitter, Reddit, FaceBook
   - Saved searches by user and by day, documenting the major social trends via user interaction over time. 
+
+## License
+MIT
