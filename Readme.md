@@ -31,4 +31,4 @@ MIT
 
 ## Local Install Instructions
 
-Clone this repo, run npm install and then npm start
+Clone this repo, run `npm install` and then `npm start`
